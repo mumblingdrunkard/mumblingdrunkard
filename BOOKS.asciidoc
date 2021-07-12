@@ -1,40 +1,47 @@
 = Books
 
+I try to read whenever I find myself bored.
+
 == Books I'm reading
 
 .Non-fiction
-- Programmerbare Logiske Styringer (239/453)
-  - PLC programming, IEC 61131-3
-
+- Programmerbare Logiske Styringer / Programmable Logic Controllers (239/453)
 - The Rust Programming Language (290/516)
-  - Introduction to Rust
 
 .Fiction
 - The Last Wish
-  - Introducing The Witcher series
 
 == Books I've read
 
+These are the books I have read.
+
 .Non-fiction
-- Bedriftens Økonomi
-  - Basic economics for business
-
+- Bedriftens Økonomi / Business Economics
 - Introduction to Networks CCNAv7
-  - Introduction to networking methodologies, by Cisco
-
 - Switching, Routing, and Wireless Essentials CCNAv7
-  - Introduction to switching and routing, by Cisco
+
+.Fiction
+- Harry Potter and the Philosophers Stone
+- Harry Potter and the Chamber of Secrets
+- Harry Potter and the Prisoner of Azkaban
+- Harry Potter and the Goblet of Fire
+- Harry Potter and the Order of the Phoenix
+- Harry Potter and the Half-Blood Prince
+- Harry Potter and the Deathly Hallows
 
 == Books I want to read
+
+A lot of these I have read parts of for university, but I would like to read
+them in full, from cover to cover. I have also read some of the fiction books
+or heard the audiobook-version, but I would like to read them again.
 
 .Non-fiction
 - Programming Rust
 - Game Engine Architecture
+- Foundations of Game Engine Development, Vol. 1
+- Foundations of Game Engine Development, Vol. 2
 - Real Time Rendering
-- The Art of Computer Programming, Vol. 1
-- The Art of Computer Programming, Vol. 2
-- The Art of Computer Programming, Vol. 3
-- The Art of Computer Programming, Vol. 4A
+- Physically Based Rendering
 - Database Management Systems
 - Software Security
 - Operating Systems: Three Easy Pieces
@@ -44,10 +51,12 @@
 - Algorithms
 - Introduction to Algorithms
 - The Algorithm Design Manual
-- Foundations of Game Engine Development, Vol. 1
-- Foundations of Game Engine Development, Vol. 2
-- Praktisk Reguleringsteknikk
-- Dynamiske Systemer
+- The Art of Computer Programming, Vol. 1
+- The Art of Computer Programming, Vol. 2
+- The Art of Computer Programming, Vol. 3
+- The Art of Computer Programming, Vol. 4A
+- Praktisk Reguleringsteknikk / Practical Control Engineering
+- Dynamiske Systemer / Dynamic Systems
 - Mechatronics
 - Measurement and Instrumentation
 - Signals and Systems
@@ -57,8 +66,8 @@
 - The Definitive Guide to ARM Cortex-M3 and Cortex-M4 Processors
 - Calculus
 - Discrete Mathematics
-- Statistikk for Universiteter og Høyskoler
-- Kjemi og Miljølære
+- Statistikk for Universiteter og Høyskoler / Statistics for Universities
+- Kjemi og Miljølære / Chemistry and Environment
 
 .Fiction
 - Sword of Destiny
@@ -68,3 +77,19 @@
 - The Tower of the Swallow
 - The Lady of the Lake
 - Season of Storms
+- Nineteen Eighty-Four
+- Animal Farm
+- Narnia
+- The Lord of the Rings
+- The Hobbit
+- The Davinci Code
+- Digital Fortress
+- Lord of the Flies
+- The Hunger Games
+- The Name of the Wind
+- The Wise Man's Fear
+- Journey to the Center of the Earth
+- Around the World in Eighty Days
+- The Mysterious Island
+- Adventures of Huckleberry Finn
+- The Adventures of Tom Sawyer
