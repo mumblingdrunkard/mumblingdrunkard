@@ -1,0 +1,70 @@
+= Books
+
+== Books I'm reading
+
+.Non-fiction
+- Programmerbare Logiske Styringer (239/453)
+  - PLC programming, IEC 61131-3
+
+- The Rust Programming Language (290/516)
+  - Introduction to Rust
+
+.Fiction
+- The Last Wish
+  - Introducing The Witcher series
+
+== Books I've read
+
+.Non-fiction
+- Bedriftens Økonomi
+  - Basic economics for business
+
+- Introduction to Networks CCNAv7
+  - Introduction to networking methodologies, by Cisco
+
+- Switching, Routing, and Wireless Essentials CCNAv7
+  - Introduction to switching and routing, by Cisco
+
+== Books I want to read
+
+.Non-fiction
+- Programming Rust
+- Game Engine Architecture
+- Real Time Rendering
+- The Art of Computer Programming, Vol. 1
+- The Art of Computer Programming, Vol. 2
+- The Art of Computer Programming, Vol. 3
+- The Art of Computer Programming, Vol. 4A
+- Database Management Systems
+- Software Security
+- Operating Systems: Three Easy Pieces
+- Modern Operating Systems
+- Computer Networks
+- The Go Programming Language
+- Algorithms
+- Introduction to Algorithms
+- The Algorithm Design Manual
+- Foundations of Game Engine Development, Vol. 1
+- Foundations of Game Engine Development, Vol. 2
+- Praktisk Reguleringsteknikk
+- Dynamiske Systemer
+- Mechatronics
+- Measurement and Instrumentation
+- Signals and Systems
+- The Art of Electronics
+- Electrical Egineering
+- Fast and Effective Embedded Systems Design
+- The Definitive Guide to ARM Cortex-M3 and Cortex-M4 Processors
+- Calculus
+- Discrete Mathematics
+- Statistikk for Universiteter og Høyskoler
+- Kjemi og Miljølære
+
+.Fiction
+- Sword of Destiny
+- Blood of Elves
+- Time of Contempt
+- Baptism of Fire
+- The Tower of the Swallow
+- The Lady of the Lake
+- Season of Storms
