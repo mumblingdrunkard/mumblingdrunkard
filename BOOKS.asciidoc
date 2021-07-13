@@ -5,11 +5,11 @@ I try to read whenever I find myself bored.
 == Books I'm reading
 
 .Non-fiction
-- Programmerbare Logiske Styringer / Programmable Logic Controllers (239/453)
+- Programmerbare Logiske Styringer / Programmable Logic Controllers (305/453)
 - The Rust Programming Language (290/516)
 
 .Fiction
-- The Last Wish
+- The Last Wish (30%)
 
 == Books I've read
 
