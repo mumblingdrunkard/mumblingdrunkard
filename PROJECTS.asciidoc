@@ -1,0 +1,22 @@
+= My projects
+
+This is a collection of projects I'm working on, completed, or want to do.
+
+== Projects I'm working on
+
+- Getting my degrees (4/6 semesters)
+
+== Projects I've completed
+
+- Balancing LEGO robot: https://youtu.be/TL4mjSv12pw
+
+== Projects I'd like to do
+
+I'd like to document most, if not all of these on video as well.
+
+- Personal webserver
+- Personal portfolio webpage
+- Personal blog
+- Breadboard computer [w/ pipelining?]
+- Redstone computer [w/ pipelining?]
+- Simple RTOS for RPi Pico written in Rust
