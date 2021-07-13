@@ -37,6 +37,16 @@ the fiction books or heard the audiobook-version, but I would like to read them
 again.
 
 .Non-fiction
+- Praktisk Reguleringsteknikk / Practical Control Engineering
+- Dynamiske Systemer / Dynamic Systems
+- C# 9 and .NET 5
+- The Go Programming Language
+- Operating Systems: Three Easy Pieces
+- Domain Driven Design
+- Software Engineering
+- Calculus
+- Discovering the STM32 Microcontroller
+- The Definitive Guide to ARM Cortex-M3 and Cortex-M4 Processors
 - Programming Rust
 - Game Engine Architecture
 - Foundations of Game Engine Development, Vol. 1
@@ -45,10 +55,8 @@ again.
 - Physically Based Rendering
 - Database Management Systems
 - Software Security
-- Operating Systems: Three Easy Pieces
 - Modern Operating Systems
 - Computer Networks
-- The Go Programming Language
 - Algorithms
 - Introduction to Algorithms
 - The Algorithm Design Manual
@@ -56,19 +64,21 @@ again.
 - The Art of Computer Programming, Vol. 2
 - The Art of Computer Programming, Vol. 3
 - The Art of Computer Programming, Vol. 4A
-- Praktisk Reguleringsteknikk / Practical Control Engineering
-- Dynamiske Systemer / Dynamic Systems
 - Mechatronics
 - Measurement and Instrumentation
 - Signals and Systems
 - The Art of Electronics
 - Electrical Egineering
 - Fast and Effective Embedded Systems Design
-- The Definitive Guide to ARM Cortex-M3 and Cortex-M4 Processors
-- Calculus
 - Discrete Mathematics
 - Statistikk for Universiteter og Høyskoler / Statistics for Universities
 - Kjemi og Miljølære / Chemistry and Environment
+- {CPP} Primer
+- {CPP} Primer Plus
+- A Tour of {CPP}
+- The {CPP} Programming Language
+- C# 9.0 in a Nutshell
+- Data Oriented Design
 
 .Fiction
 - Sword of Destiny
