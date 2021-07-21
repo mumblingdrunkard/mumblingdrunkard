@@ -15,7 +15,7 @@ This is a collection of projects I'm working on, completed, or want to do.
 I'd like to document most, if not all of these on video as well.
 
 - Personal webserver
-- Personal portfolio webpage
+- Personal portfolio webpage (running on an rPiPico?)
 - Personal blog
 - Breadboard computer [w/ pipelining?]
 - Redstone computer [w/ pipelining?]
