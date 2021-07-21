@@ -1,19 +1,21 @@
 = Books
 
-I try to read whenever I find myself bored.
+I try to read whenever I find myself bored. This is a file for documenting my
+progress as I read.
 
 == Books I'm reading
 
 .Non-fiction
-- Programmerbare Logiske Styringer / Programmable Logic Controllers (305/453)
-- The Rust Programming Language (290/516)
+- Programmerbare Logiske Styringer / Programmable Logic Controllers (343/453)
+- The Rust Programming Language (348/516)
+- Discrete Mathematics (24/404)
 
 .Fiction
 - The Last Wish (30%)
 
 == Books I've read
 
-These are the books I have read.
+These are the books I remember having read.
 
 .Non-fiction
 - Bedriftens Økonomi / Business Economics
@@ -21,13 +23,8 @@ These are the books I have read.
 - Switching, Routing, and Wireless Essentials CCNAv7
 
 .Fiction
-- Harry Potter and the Philosophers Stone
-- Harry Potter and the Chamber of Secrets
-- Harry Potter and the Prisoner of Azkaban
-- Harry Potter and the Goblet of Fire
-- Harry Potter and the Order of the Phoenix
-- Harry Potter and the Half-Blood Prince
-- Harry Potter and the Deathly Hallows
+- Harry Potter (Series)
+- The Hunger Games (Series)
 
 == Books I want to read
 
@@ -49,8 +46,7 @@ again.
 - The Definitive Guide to ARM Cortex-M3 and Cortex-M4 Processors
 - Programming Rust
 - Game Engine Architecture
-- Foundations of Game Engine Development, Vol. 1
-- Foundations of Game Engine Development, Vol. 2
+- Foundations of Game Engine Development (Series)
 - Real Time Rendering
 - Physically Based Rendering
 - Database Management Systems
@@ -60,17 +56,13 @@ again.
 - Algorithms
 - Introduction to Algorithms
 - The Algorithm Design Manual
-- The Art of Computer Programming, Vol. 1
-- The Art of Computer Programming, Vol. 2
-- The Art of Computer Programming, Vol. 3
-- The Art of Computer Programming, Vol. 4A
+- The Art of Computer Programming (Series)
 - Mechatronics
 - Measurement and Instrumentation
 - Signals and Systems
 - The Art of Electronics
 - Electrical Egineering
 - Fast and Effective Embedded Systems Design
-- Discrete Mathematics
 - Statistikk for Universiteter og Høyskoler / Statistics for Universities
 - Kjemi og Miljølære / Chemistry and Environment
 - {CPP} Primer
@@ -81,26 +73,20 @@ again.
 - Data Oriented Design
 
 .Fiction
-- Sword of Destiny
-- Blood of Elves
-- Time of Contempt
-- Baptism of Fire
-- The Tower of the Swallow
-- The Lady of the Lake
-- Season of Storms
+- The Witcher Books (Series)
 - Nineteen Eighty-Four
 - Animal Farm
-- Narnia
+- The Chronicles of Narnia (Series)
 - The Lord of the Rings
 - The Hobbit
 - The Davinci Code
 - Digital Fortress
 - Lord of the Flies
-- The Hunger Games
-- The Name of the Wind
-- The Wise Man's Fear
 - Journey to the Center of the Earth
 - Around the World in Eighty Days
 - The Mysterious Island
 - Adventures of Huckleberry Finn
 - The Adventures of Tom Sawyer
+- The Kingkiller Chronicles (Series)
+- His Dark Materials (Series)
+- Artemis Fowl (Series)
