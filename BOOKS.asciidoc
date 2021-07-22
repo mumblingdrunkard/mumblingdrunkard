@@ -7,7 +7,7 @@ progress as I read.
 
 .Non-fiction
 - Programmerbare Logiske Styringer / Programmable Logic Controllers (343/453)
-- The Rust Programming Language (348/516)
+- The Rust Programming Language (370/516)
 - Discrete Mathematics (24/404)
 
 .Fiction
