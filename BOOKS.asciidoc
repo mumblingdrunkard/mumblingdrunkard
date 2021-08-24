@@ -8,9 +8,9 @@ progress as I read.
 .Non-fiction
 - Programmerbare Logiske Styringer / Programmable Logic Controllers (343/453)
 - The Rust Programming Language (370/516)
-- Discrete Mathematics (24/404)
+- Discrete Mathematics (32/404)
 - The Go Programming Language (27/366)
-- Operating Systems: Three Easy Pieces (48/650)
+- Operating Systems: Three Easy Pieces (312/650)
 
 .Fiction
 - The Last Wish (42%)
