@@ -10,10 +10,11 @@ progress as I read.
 - The Rust Programming Language (370/516)
 - Discrete Mathematics (32/404)
 - The Go Programming Language (27/366)
-- Operating Systems: Three Easy Pieces (312/650)
+- Operating Systems: Three Easy Pieces (320/650)
 
 .Fiction
 - The Last Wish (42%)
+- The Name of the Wind (44%)
 
 == Books I've read
 
