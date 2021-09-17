@@ -14,7 +14,7 @@ progress as I read.
 
 .Fiction
 - The Last Wish (42%)
-- The Name of the Wind (44%)
+- The Wise Man's Fear (51%)
 
 == Books I've read
 
@@ -28,6 +28,7 @@ These are the books I remember having read.
 .Fiction
 - Harry Potter (Series)
 - The Hunger Games (Series)
+- The Name of the Wind
 
 == Books I want to read
 
@@ -91,3 +92,8 @@ again.
 - The Kingkiller Chronicles (Series)
 - His Dark Materials (Series)
 - Artemis Fowl (Series)
+- Discworld (Series)
+- The Hitchhiker's Guide to the Galaxy
+- Good Omens
+- A Song of Ice and Fire (Series)
+- The Princess Bride
