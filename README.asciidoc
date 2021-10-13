@@ -2,9 +2,15 @@
 
 Overtime student, taking a bachelor in EE and a bachelor in CS.
 
-I'm interested in way too much stuff, mostly centered around programming. If you
-can program it, I'm probably interested in it. I like engineering solutions to
-problems that other people find difficult.
+I like solving problems.
 
 - 🌱 I’m currently learning Rust
 - 📫 How to reach me: mumblingdrunkard@pm.me
+
+.This semester
+- _Advanced Programming_
+- _Operating Systems and Systems Programming_
+- _Control Technology_
+- _Robot Technology_
+- _Discrete Mathematics_
+- _Vector Analysis/Multivariable Calculus_
