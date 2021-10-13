@@ -20,3 +20,7 @@ I'd like to document most, if not all of these on video as well.
 - Breadboard computer [w/ pipelining?]
 - Redstone computer [w/ pipelining?]
 - Simple RTOS for RPi Pico written in Rust
+- Operating System for ODROID N2 (written in Rust)
+  - Device drivers
+- Reverse engineer communication with Velleman PC oscilloscope
+  - Create a linux client for the Velleman PC oscilloscope
