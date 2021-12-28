@@ -4,13 +4,8 @@ Overtime student, taking a bachelor in EE and a bachelor in CS.
 
 I like solving problems.
 
-- 🌱 I’m currently learning Rust
 - 📫 How to reach me: mumblingdrunkard@pm.me
 
 .This semester
-- _Advanced Programming_
-- _Operating Systems and Systems Programming_
-- _Control Technology_
-- _Robot Technology_
-- _Discrete Mathematics_
-- _Vector Analysis/Multivariable Calculus_
+- _Bachelor's Thesis in Computer Science_
+- _Bachelor's Thesis in Electrical Engineering_
