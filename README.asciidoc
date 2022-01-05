@@ -6,6 +6,12 @@ I like solving problems.
 
 - 📫 How to reach me: mumblingdrunkard@pm.me
 
-.This semester
-- _Bachelor's Thesis in Computer Science_
-- _Bachelor's Thesis in Electrical Engineering_
+== This semester
+
+=== Bachelor's Thesis in Computer Science
+
+"A Teaching Operating System based on Simulation for Third Semester Students."
+
+Repo: https://github.com/mumblingdrunkard/gotos
+
+=== Bachelor's Thesis in Electrical Engineering
