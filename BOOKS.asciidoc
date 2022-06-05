@@ -5,16 +5,7 @@ progress as I read.
 
 == Books I'm reading
 
-.Non-fiction
-- Programmerbare Logiske Styringer / Programmable Logic Controllers (343/453)
-- The Rust Programming Language (370/516)
-- Discrete Mathematics (32/404)
-- The Go Programming Language (27/366)
-- Operating Systems: Three Easy Pieces (320/650)
-
-.Fiction
-- The Last Wish (42%)
-- Dune (134/618)
+- The Light Fantastic
 
 == Books I've read
 
@@ -24,12 +15,28 @@ These are the books I remember having read.
 - Bedriftens Økonomi / Business Economics
 - Introduction to Networks CCNAv7
 - Switching, Routing, and Wireless Essentials CCNAv7
+- Programmerbare Logiske Styringer / Programmable Logic Controllers
+- Operating Systems: Three Easy Pieces
 
 .Fiction
-- Harry Potter (Series)
-- The Hunger Games (Series)
+- Harry Potter and the Philosopher's Stone
+- Harry Potter and the Chamber of Secrets
+- Harry Potter and the Prisoner of Azkaban
+- Harry Potter and the Goblet of Fire
+- Harry Potter and the Order of the Phoenix
+- Harry Potter and the Half-Blood Prince
+- Harry Potter and the Deathly Hallows
 - The Name of the Wind
 - The Wise Man's Fear
+- The Last Wish
+- Sword of Destiny
+- Blood of Elves
+- Time of Contempt
+- Baptism of Fire
+- The Tower of the Swallow
+- The Colour of Magic
+- The Eye of the World
+- Dune
 
 == Books I want to read
 
@@ -77,6 +84,7 @@ again.
 
 .Fiction
 - The Witcher Books (Series)
+- The Cuckoo's Egg
 - Nineteen Eighty-Four
 - Animal Farm
 - The Chronicles of Narnia (Series)
@@ -98,3 +106,4 @@ again.
 - Good Omens
 - A Song of Ice and Fire (Series)
 - The Princess Bride
+- Foundation
