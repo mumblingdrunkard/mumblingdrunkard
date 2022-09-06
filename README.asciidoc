@@ -1,17 +1,17 @@
 = mumblingdrunkard 👋
 
-Overtime student, taking a bachelor in EE and a bachelor in CS.
+Currently doing my master's of computer science at NTNU, specialising in Algorithms and Computers.
 
 I like solving problems.
 
 - 📫 How to reach me: mumblingdrunkard@pm.me
 
-== This semester
+== Education
 
-=== Bachelor's Thesis in Computer Science
+=== Bachelor of Computer Science
 
 "A Teaching Operating System based on Simulation for Third Semester Students."
 
 Repo: https://github.com/mumblingdrunkard/gotos
 
-=== Bachelor's Thesis in Electrical Engineering
+=== Bachelor of Electrical Engineering
