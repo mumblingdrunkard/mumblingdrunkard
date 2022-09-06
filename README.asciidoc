@@ -14,4 +14,4 @@ I like solving problems.
 _"A Teaching Operating System based on Simulation for Third Semester Students"_ +
 Repo: https://github.com/mumblingdrunkard/gotos
 
-2019 -- 2022:: __Bachelor of Electrical Engineering* at University of Stavanger.
+2019 -- 2022:: __University of Stavanger, Bachelor of Electrical Engineering. Stavanger, Norway__
