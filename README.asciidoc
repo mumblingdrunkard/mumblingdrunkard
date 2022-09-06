@@ -1,10 +1,9 @@
-= mumblingdrunkard 👋
+mumblingdrunkard:: 📪 mumblingdrunkard@pm.me +
+🌳 https://github.com/mumblingdrunkard
 
 Currently doing my master's of computer science at NTNU, specialising in Algorithms and Computers.
 
 I like solving problems.
-
-- 📫 How to reach me: mumblingdrunkard@pm.me
 
 == Education
 
