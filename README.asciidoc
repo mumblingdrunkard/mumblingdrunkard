@@ -8,10 +8,12 @@ I like solving problems.
 
 == Education
 
-=== Bachelor of Computer Science
+**2022 - ????:** *Master of Computer Science* at Norwegian University of Science and Technology.
+
+**2019 - 2022:** *Bachelor of Computer Science* at University of Stavanger.
 
 "A Teaching Operating System based on Simulation for Third Semester Students."
 
 Repo: https://github.com/mumblingdrunkard/gotos
 
-=== Bachelor of Electrical Engineering
+**2019 - 2022:** *Bachelor of Electrical Engineering* at University of Stavanger.
