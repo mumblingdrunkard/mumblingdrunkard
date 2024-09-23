@@ -7,7 +7,8 @@ I like solving problems.
 
 == Education
 
-2022 -- 2024:: *Norwegian University of Science and Technology, Master of Computer Science. Trondheim, Norway*
+2022 -- 2024:: *Norwegian University of Science and Technology, Master of Computer Science. Trondheim, Norway* +
+_"Doppelganger Loads in the Berkeley Out-of-Order Machine"_
 
 2019 -- 2022:: *University of Stavanger, Bachelor of Computer Science. Stavanger, Norway* +
 _"A Teaching Operating System based on Simulation for Third Semester Students"_ +
